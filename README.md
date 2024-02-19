@@ -2,3 +2,4 @@
 what is cool?
 find yourself first
 cool
+not good now
